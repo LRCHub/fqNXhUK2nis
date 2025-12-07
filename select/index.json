@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "命に嫌われている。",
+  "base_artist": "まふまふ",
+  "createdAt": "2025-12-07T10:21:29.188021Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "命に嫌われている。",
+      "artist": "Mafumafu",
+      "has_synced": true,
+      "path": "select/01_命に嫌われている。_Mafumafu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "命に嫌われている。 feat.相沢",
+      "artist": "Kobasolo feat. 相沢",
+      "has_synced": true,
+      "path": "select/02_命に嫌われている。_feat.相沢_Kobasolo_feat._相沢.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "命に嫌われている。",
+      "artist": "ASCA",
+      "has_synced": true,
+      "path": "select/03_命に嫌われている。_ASCA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "命に嫌われている。",
+      "artist": "majiko",
+      "has_synced": true,
+      "path": "select/04_命に嫌われている。_majiko.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "命に嫌われている",
+      "artist": "カンザキイオリ",
+      "has_synced": true,
+      "path": "select/05_命に嫌われている_カンザキイオリ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "命に嫌われている。",
+      "artist": "Raon Lee",
+      "has_synced": true,
+      "path": "select/06_命に嫌われている。_Raon_Lee.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "命に嫌われている。",
+      "artist": "P丸様｡",
+      "has_synced": true,
+      "path": "select/07_命に嫌われている。_P丸様。.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "命に嫌われている。 (생명에게 미움받고 있어, Hated by life itself, Inochi ni Kirawarete iru)",
+      "artist": "Raon Lee",
+      "has_synced": true,
+      "path": "select/08_命に嫌われている。_(생명에게_미움받고_있어,_Hated_by_life_itself,_Inochi_ni_Kirawarete_iru)_Raon_Lee.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "命に嫌われている",
+      "artist": "カンザキイオリ",
+      "has_synced": true,
+      "path": "select/09_命に嫌われている_カンザキイオリ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "命に嫌われている。 feat.相沢",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/10_命に嫌われている。_feat.相沢_kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "命に嫌われている。 feat.相沢",
+      "artist": "Kobasolo feat. 相沢",
+      "has_synced": true,
+      "path": "select/11_命に嫌われている。_feat.相沢_Kobasolo_feat._相沢.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "命に嫌われている。",
+      "artist": "Afterglow",
+      "has_synced": true,
+      "path": "select/12_命に嫌われている。_Afterglow.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "命に嫌われている",
+      "artist": "カンザキイオリ",
+      "has_synced": true,
+      "path": "select/13_命に嫌われている_カンザキイオリ.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "命に嫌われている。",
+      "artist": "初音ミク",
+      "has_synced": true,
+      "path": "select/14_命に嫌われている。_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "命に嫌われている。 - Inochini Kirawareteiru",
+      "artist": "majiko",
+      "has_synced": true,
+      "path": "select/15_命に嫌われている。_-_Inochini_Kirawareteiru_majiko.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "命に嫌われている。 feat.相沢",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/16_命に嫌われている。_feat.相沢_kobasolo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "命に嫌われている。",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_01_命に嫌われている。_まふまふ.txt"
+    }
+  ]
+}
